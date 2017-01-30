@@ -1,0 +1,6 @@
+mvn.buildTime=2017-01-29 20:52:18
+mvn.scmBranch=UNKNOWN_BRANCH
+mvn.commit.revision=UNKNOWN COMMIT REV ID
+mvn.project.build.finalName=common-1.0-SNAPSHOT
+mvn.project.version=1.0-SNAPSHOT
+mvn.buildComputerName=Unknown *nix machine
