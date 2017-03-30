@@ -13,7 +13,7 @@ define(['./module'], function (controllers) {
 
 	// Change next line to correct translation error    
 	//      resolveParams.categories[3].categoryName = "Speakers";
-	        resolveParams.categories[3].categoryName = "Audio";
+	        resolveParams.categories[3].categoryName = "Jean Suplick";
 
                 var cate = [];
                 for (var index = 0; index < resolveParams.categories[i].categoryName.length; index++) {
