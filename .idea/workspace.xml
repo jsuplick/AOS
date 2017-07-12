@@ -1,8 +1,506 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AliProjectConfiguration">
+    <location />
+    <domain />
+    <project />
+    <username />
+    <password />
+    <store-password>true</store-password>
+    <stored />
+    <status-transition />
+    <spell-checker>true</spell-checker>
+    <dev-motive-annotation>true</dev-motive-annotation>
+    <entity />
+    <CommentHistory>
+      <option name="comments">
+        <list />
+      </option>
+    </CommentHistory>
+    <details controls="false" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="840430ae-691c-489a-848a-0bc61891bc06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/WebConfiguration2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/accountservice.war" afterPath="$PROJECT_DIR$/accountservice/target/accountservice.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/accountservice.war.original" afterPath="$PROJECT_DIR$/accountservice/target/accountservice.war.original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/accountservice/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/accountservice/target/accountservice/WEB-INF/lib/common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/accountservice/WEB-INF/lib/root-1.0-SNAPSHOT-classes.jar" afterPath="$PROJECT_DIR$/accountservice/target/accountservice/WEB-INF/lib/root-1.0-SNAPSHOT-classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/catalog.war" afterPath="$PROJECT_DIR$/catalog/target/catalog.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/catalog/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/catalog/target/catalog/WEB-INF/lib/common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/catalog/WEB-INF/lib/root-1.0-SNAPSHOT-classes.jar" afterPath="$PROJECT_DIR$/catalog/target/catalog/WEB-INF/lib/root-1.0-SNAPSHOT-classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/test-classes/com/advantage/catalog_test/online/store/dao/CategoryAttributesTests.class" afterPath="$PROJECT_DIR$/catalog/target/test-classes/com/advantage/catalog_test/online/store/dao/CategoryAttributesTests.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/common/target/common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mastercredit/target/MasterCredit.war" afterPath="$PROJECT_DIR$/mastercredit/target/MasterCredit.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mastercredit/target/MasterCredit/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/mastercredit/target/MasterCredit/WEB-INF/lib/common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mastercredit/target/MasterCredit/WEB-INF/lib/root-1.0-SNAPSHOT-classes.jar" afterPath="$PROJECT_DIR$/mastercredit/target/MasterCredit/WEB-INF/lib/root-1.0-SNAPSHOT-classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/order.war" afterPath="$PROJECT_DIR$/order/target/order.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/order/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/order/target/order/WEB-INF/lib/common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/order/WEB-INF/lib/root-1.0-SNAPSHOT-classes.jar" afterPath="$PROJECT_DIR$/order/target/order/WEB-INF/lib/root-1.0-SNAPSHOT-classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/images/boom.png" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/images/boom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/images/hawk.png" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/images/hawk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/images/logo.png" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/shelljs/test/resources/chmod/b/a/b/.npmignore" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/shelljs/test/resources/chmod/b/a/b/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/target/ROOT-classes.jar" afterPath="$PROJECT_DIR$/root/target/ROOT-classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/target/ROOT.war" afterPath="$PROJECT_DIR$/root/target/ROOT.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/target/ROOT/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/root/target/ROOT/WEB-INF/lib/common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/target/SafePay.war" afterPath="$PROJECT_DIR$/safepay/target/SafePay.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/target/SafePay/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/safepay/target/SafePay/WEB-INF/lib/common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/target/SafePay/WEB-INF/lib/root-1.0-SNAPSHOT-classes.jar" afterPath="$PROJECT_DIR$/safepay/target/SafePay/WEB-INF/lib/root-1.0-SNAPSHOT-classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shared_resources/target/res.zip" afterPath="$PROJECT_DIR$/shared_resources/target/res.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/ShipEx.war" afterPath="$PROJECT_DIR$/shipex/target/ShipEx.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/ShipEx.war.original" afterPath="$PROJECT_DIR$/shipex/target/ShipEx.war.original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/ShipEx/WEB-INF/lib/common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/shipex/target/ShipEx/WEB-INF/lib/common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountCreateRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountCreateRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountCreateResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountCreateResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountDeleteResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountDeleteResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountLoginRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountLoginRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountLoginResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountLoginResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountLogoutRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountLogoutRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountLogoutResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountLogoutResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountStatusResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountStatusResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountUpdateRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountUpdateRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountUpdateResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountUpdateResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddAddressesRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddAddressesRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddMasterCreditMethodRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddMasterCreditMethodRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddSafePayMethodRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddSafePayMethodRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddSafePayMethodResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddSafePayMethodResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddressUpdateRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddressUpdateRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddressUpdateResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AddressUpdateResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/ChangePasswordRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/ChangePasswordRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/ChangePasswordResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/ChangePasswordResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/Country.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/Country.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/CountryCreateRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/CountryCreateRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/CountrySearchRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/CountrySearchRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/CountrySearchResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/CountrySearchResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/CountryStatusResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/CountryStatusResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/DeletePaymentPreferenceResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/DeletePaymentPreferenceResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountByIdNewRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountByIdNewRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountByIdNewResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountByIdNewResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountByIdRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountByIdRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountByIdResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountByIdResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountConfigurationResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountConfigurationResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountPaymentPreferencesRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAccountPaymentPreferencesRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAddressesByAccountIdRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAddressesByAccountIdRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAddressesByAccountIdResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAddressesByAccountIdResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAllAccountsRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAllAccountsRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAllAccountsResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetAllAccountsResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetCountriesResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/GetCountriesResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/ObjectFactory.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/ObjectFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/PaymentMethodUpdateRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/PaymentMethodUpdateRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/PaymentMethodUpdateResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/PaymentMethodUpdateResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/PaymentPreferences.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/PaymentPreferences.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/PaymentPreferencesDto.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/PaymentPreferencesDto.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/UpdateMasterCreditMethodRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/UpdateMasterCreditMethodRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/UpdateMasterCreditMethodResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/UpdateMasterCreditMethodResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/UpdateSafePayMethodRequest.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/UpdateSafePayMethodRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/UpdateSafePayMethodResponse.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/UpdateSafePayMethodResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/package-info.java" afterPath="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/src/main/webapp/ver.txt" afterPath="$PROJECT_DIR$/accountservice/src/main/webapp/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/accountservice/WEB-INF/classes/properties/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/accountservice/target/accountservice/WEB-INF/classes/properties/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/accountservice/WEB-INF/classes/ver.txt" afterPath="$PROJECT_DIR$/accountservice/target/accountservice/WEB-INF/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/accountservice/ver.txt" afterPath="$PROJECT_DIR$/accountservice/target/accountservice/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/classes/properties/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/accountservice/target/classes/properties/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/classes/ver.txt" afterPath="$PROJECT_DIR$/accountservice/target/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/generated-resources/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/accountservice/target/generated-resources/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/accountservice/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/accountservice/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/accountservice/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/accountservice/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/surefire-reports/TEST-UserService.UserServiceApplicationTests.xml" afterPath="$PROJECT_DIR$/accountservice/target/surefire-reports/TEST-UserService.UserServiceApplicationTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/surefire-reports/TEST-com.advantage.accountsoap.AccountserviceApplicationTests.xml" afterPath="$PROJECT_DIR$/accountservice/target/surefire-reports/TEST-com.advantage.accountsoap.AccountserviceApplicationTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/surefire-reports/UserService.UserServiceApplicationTests.txt" afterPath="$PROJECT_DIR$/accountservice/target/surefire-reports/UserService.UserServiceApplicationTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accountservice/target/surefire-reports/com.advantage.accountsoap.AccountserviceApplicationTests.txt" afterPath="$PROJECT_DIR$/accountservice/target/surefire-reports/com.advantage.accountsoap.AccountserviceApplicationTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/catalog_maven_generated_variables.txt" afterPath="$PROJECT_DIR$/catalog/catalog_maven_generated_variables.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/src/main/webapp/ver.txt" afterPath="$PROJECT_DIR$/catalog/src/main/webapp/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/catalog/WEB-INF/classes/properties/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/catalog/target/catalog/WEB-INF/classes/properties/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/catalog/WEB-INF/classes/ver.txt" afterPath="$PROJECT_DIR$/catalog/target/catalog/WEB-INF/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/catalog/ver.txt" afterPath="$PROJECT_DIR$/catalog/target/catalog/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/classes/properties/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/catalog/target/classes/properties/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/classes/ver.txt" afterPath="$PROJECT_DIR$/catalog/target/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/generated-resources/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/catalog/target/generated-resources/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/catalog/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/catalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/surefire-reports/TEST-com.advantage.catalog_test.online.store.dao.CategoryAttributesTests.xml" afterPath="$PROJECT_DIR$/catalog/target/surefire-reports/TEST-com.advantage.catalog_test.online.store.dao.CategoryAttributesTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/surefire-reports/TEST-com.advantage.catalog_test.online.store.dao.DealRepositoryTests.xml" afterPath="$PROJECT_DIR$/catalog/target/surefire-reports/TEST-com.advantage.catalog_test.online.store.dao.DealRepositoryTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/surefire-reports/TEST-com.advantage.catalog_test.online.store.dao.ProductRepositoryTests.xml" afterPath="$PROJECT_DIR$/catalog/target/surefire-reports/TEST-com.advantage.catalog_test.online.store.dao.ProductRepositoryTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/surefire-reports/TEST-com.advantage.catalog_test.online.store.image.ImageManagementTests.xml" afterPath="$PROJECT_DIR$/catalog/target/surefire-reports/TEST-com.advantage.catalog_test.online.store.image.ImageManagementTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/surefire-reports/TEST-com.advantage.catalog_test.online.store.support.ContactUsTests.xml" afterPath="$PROJECT_DIR$/catalog/target/surefire-reports/TEST-com.advantage.catalog_test.online.store.support.ContactUsTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/surefire-reports/com.advantage.catalog_test.online.store.dao.CategoryAttributesTests.txt" afterPath="$PROJECT_DIR$/catalog/target/surefire-reports/com.advantage.catalog_test.online.store.dao.CategoryAttributesTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/surefire-reports/com.advantage.catalog_test.online.store.dao.DealRepositoryTests.txt" afterPath="$PROJECT_DIR$/catalog/target/surefire-reports/com.advantage.catalog_test.online.store.dao.DealRepositoryTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/surefire-reports/com.advantage.catalog_test.online.store.dao.ProductRepositoryTests.txt" afterPath="$PROJECT_DIR$/catalog/target/surefire-reports/com.advantage.catalog_test.online.store.dao.ProductRepositoryTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/surefire-reports/com.advantage.catalog_test.online.store.image.ImageManagementTests.txt" afterPath="$PROJECT_DIR$/catalog/target/surefire-reports/com.advantage.catalog_test.online.store.image.ImageManagementTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/target/surefire-reports/com.advantage.catalog_test.online.store.support.ContactUsTests.txt" afterPath="$PROJECT_DIR$/catalog/target/surefire-reports/com.advantage.catalog_test.online.store.support.ContactUsTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codar/dbscripts/creproc--adv-account--get_all_countries_with_sleep(p_sleep_for int).sql" afterPath="$PROJECT_DIR$/codar/dbscripts/creproc--adv-account--get_all_countries_with_sleep(p_sleep_for int).sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codar/dbscripts/creproc--adv-account--truncate_account_service_tables().sql" afterPath="$PROJECT_DIR$/codar/dbscripts/creproc--adv-account--truncate_account_service_tables().sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codar/dbscripts/creproc--adv-catalog--truncate_catalog_tables().sql" afterPath="$PROJECT_DIR$/codar/dbscripts/creproc--adv-catalog--truncate_catalog_tables().sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codar/designs/Advantage_Online_Shopping_Design_Release.json" afterPath="$PROJECT_DIR$/codar/designs/Advantage_Online_Shopping_Design_Release.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codar/designs/pom.xml" afterPath="$PROJECT_DIR$/codar/designs/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codar/scripts/LG_LR_EC2_NVG.pem" afterPath="$PROJECT_DIR$/codar/scripts/LG_LR_EC2_NVG.pem" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codar/scripts/deployabs.sh" afterPath="$PROJECT_DIR$/codar/scripts/deployabs.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codar/scripts/undeployabs.sh" afterPath="$PROJECT_DIR$/codar/scripts/undeployabs.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codar/tomcat/pom.xml" afterPath="$PROJECT_DIR$/codar/tomcat/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/common_maven_generated_variables.txt" afterPath="$PROJECT_DIR$/common/common_maven_generated_variables.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/main/webapp/ver.txt" afterPath="$PROJECT_DIR$/common/src/main/webapp/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/classes/properties/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/common/target/classes/properties/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/classes/ver.txt" afterPath="$PROJECT_DIR$/common/target/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/generated-resources/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/common/target/generated-resources/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/surefire-reports/TEST-com.advantage.common_test.online.store.util.ColorPalletEnumTests.xml" afterPath="$PROJECT_DIR$/common/target/surefire-reports/TEST-com.advantage.common_test.online.store.util.ColorPalletEnumTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/surefire-reports/TEST-com.advantage.common_test.online.store.util.PropertiesFilesTests.xml" afterPath="$PROJECT_DIR$/common/target/surefire-reports/TEST-com.advantage.common_test.online.store.util.PropertiesFilesTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/surefire-reports/TEST-com.advantage.common_test.online.store.util.TokenTests.xml" afterPath="$PROJECT_DIR$/common/target/surefire-reports/TEST-com.advantage.common_test.online.store.util.TokenTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/surefire-reports/com.advantage.common_test.online.store.util.ColorPalletEnumTests.txt" afterPath="$PROJECT_DIR$/common/target/surefire-reports/com.advantage.common_test.online.store.util.ColorPalletEnumTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/surefire-reports/com.advantage.common_test.online.store.util.PropertiesFilesTests.txt" afterPath="$PROJECT_DIR$/common/target/surefire-reports/com.advantage.common_test.online.store.util.PropertiesFilesTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/target/surefire-reports/com.advantage.common_test.online.store.util.TokenTests.txt" afterPath="$PROJECT_DIR$/common/target/surefire-reports/com.advantage.common_test.online.store.util.TokenTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/allLoggers.log" afterPath="$PROJECT_DIR$/logs/allLoggers.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/catalog/errors.log" afterPath="$PROJECT_DIR$/logs/catalog/errors.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/catalog/main.log" afterPath="$PROJECT_DIR$/logs/catalog/main.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/common/errors.log" afterPath="$PROJECT_DIR$/logs/common/errors.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/common/main.log" afterPath="$PROJECT_DIR$/logs/common/main.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/order/errors.log" afterPath="$PROJECT_DIR$/logs/order/errors.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/order/main.log" afterPath="$PROJECT_DIR$/logs/order/main.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mastercredit/src/main/webapp/ver.txt" afterPath="$PROJECT_DIR$/mastercredit/src/main/webapp/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mastercredit/target/MasterCredit/ver.txt" afterPath="$PROJECT_DIR$/mastercredit/target/MasterCredit/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mastercredit/target/generated-resources/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/mastercredit/target/generated-resources/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mastercredit/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/mastercredit/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mastercredit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/mastercredit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/cake" afterPath="$PROJECT_DIR$/node_modules/.bin/cake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/coffee" afterPath="$PROJECT_DIR$/node_modules/.bin/coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/dateformat" afterPath="$PROJECT_DIR$/node_modules/.bin/dateformat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/grunt" afterPath="$PROJECT_DIR$/node_modules/.bin/grunt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/node_modules/.bin/js-yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/node_modules/.bin/nopt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/node_modules/.bin/rimraf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/strip-indent" afterPath="$PROJECT_DIR$/node_modules/.bin/strip-indent" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/which" afterPath="$PROJECT_DIR$/node_modules/.bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/coffee-script/bin/cake" afterPath="$PROJECT_DIR$/node_modules/coffee-script/bin/cake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/coffee-script/bin/coffee" afterPath="$PROJECT_DIR$/node_modules/coffee-script/bin/coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/coffee-script/lib/coffee-script/parser.js" afterPath="$PROJECT_DIR$/node_modules/coffee-script/lib/coffee-script/parser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/dateformat/bin/cli.js" afterPath="$PROJECT_DIR$/node_modules/dateformat/bin/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/esprima/bin/esparse.js" afterPath="$PROJECT_DIR$/node_modules/esprima/bin/esparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/esprima/bin/esvalidate.js" afterPath="$PROJECT_DIR$/node_modules/esprima/bin/esvalidate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/exit/test/fixtures/create-files.sh" afterPath="$PROJECT_DIR$/node_modules/exit/test/fixtures/create-files.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-legacy-util/test/fixtures/exec.sh" afterPath="$PROJECT_DIR$/node_modules/grunt-legacy-util/test/fixtures/exec.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/bin/grunt" afterPath="$PROJECT_DIR$/node_modules/grunt/bin/grunt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/grunt" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/grunt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-cli/bin/grunt" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-cli/bin/grunt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-cli/completion/bash" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-cli/completion/bash" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-cli/completion/zsh" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-cli/completion/zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/js-yaml/bin/js-yaml.js" afterPath="$PROJECT_DIR$/node_modules/js-yaml/bin/js-yaml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nopt/bin/nopt.js" afterPath="$PROJECT_DIR$/node_modules/nopt/bin/nopt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nopt/examples/my-program.js" afterPath="$PROJECT_DIR$/node_modules/nopt/examples/my-program.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rimraf/bin.js" afterPath="$PROJECT_DIR$/node_modules/rimraf/bin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/semver/bin/semver" afterPath="$PROJECT_DIR$/node_modules/semver/bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/spdx-license-ids/README.md" afterPath="$PROJECT_DIR$/node_modules/spdx-license-ids/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/strip-indent/cli.js" afterPath="$PROJECT_DIR$/node_modules/strip-indent/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/which/bin/which" afterPath="$PROJECT_DIR$/node_modules/which/bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/order_maven_generated_variables.txt" afterPath="$PROJECT_DIR$/order/order_maven_generated_variables.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/src/main/webapp/ver.txt" afterPath="$PROJECT_DIR$/order/src/main/webapp/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/classes/properties/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/order/target/classes/properties/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/classes/ver.txt" afterPath="$PROJECT_DIR$/order/target/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/generated-resources/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/order/target/generated-resources/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/order/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/order/WEB-INF/classes/properties/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/order/target/order/WEB-INF/classes/properties/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/order/WEB-INF/classes/ver.txt" afterPath="$PROJECT_DIR$/order/target/order/WEB-INF/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/order/ver.txt" afterPath="$PROJECT_DIR$/order/target/order/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/surefire-reports/TEST-com.advantage.order_test.online.store.util.ValidationHelperTests.xml" afterPath="$PROJECT_DIR$/order/target/surefire-reports/TEST-com.advantage.order_test.online.store.util.ValidationHelperTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/target/surefire-reports/com.advantage.order_test.online.store.util.ValidationHelperTests.txt" afterPath="$PROJECT_DIR$/order/target/surefire-reports/com.advantage.order_test.online.store.util.ValidationHelperTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/root_maven_generated_variables.txt" afterPath="$PROJECT_DIR$/root/root_maven_generated_variables.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/JacksonObjectMapperConfiguration.java" afterPath="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/JacksonObjectMapperConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/cake" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/cake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/cleancss" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/cleancss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/coffee" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/color-support" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/color-support" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/coveralls" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/coveralls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/grunt-regex-replace" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/grunt-regex-replace" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/har-validator" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/har-validator" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/html-minifier" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/html-minifier" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/js-yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/jshint" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/jshint" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/nodeunit" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/nodeunit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/nopt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/nyc" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/nyc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/opener" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/opener" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/pretty-bytes" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/pretty-bytes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/r.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/r.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/rimraf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/shjs" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/shjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/sshpk-conv" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/sshpk-conv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/sshpk-sign" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/sshpk-sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/sshpk-verify" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/sshpk-verify" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/tap" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/tap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/tap-mocha-reporter" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/tap-mocha-reporter" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/tap-parser" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/tap-parser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/tiny-lr-fork" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/tiny-lr-fork" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/uglifyjs" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/uuid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/which" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/.bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/arguments.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/arguments.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/choice.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/choice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/constants.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/constants.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/help.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/help.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/nargs.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/nargs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/parents.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/parents.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/prefix_chars.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/prefix_chars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/sub_commands.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/sub_commands.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/sum.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/argparse/examples/sum.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/.travis.yml" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/LICENSE" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/README.md" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/lib/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/test/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/boom/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/clean-css/bin/cleancss" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/clean-css/bin/cleancss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/cat.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/cat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/command.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/command.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/echo.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/echo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/glob.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/glob.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/long_desc.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/long_desc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/progress.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/progress.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/sort.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/sort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/spinner.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/spinner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/static.coffee" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/static.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/static.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/examples/static.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/package.json" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/progress.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/progress.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/spinner.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cli/spinner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coffee-script/bin/cake" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coffee-script/bin/cake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coffee-script/bin/coffee" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coffee-script/bin/coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coffee-script/lib/coffee-script/parser.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coffee-script/lib/coffee-script/parser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/color-support/bin.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/color-support/bin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/bin/coveralls.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/bin/coveralls.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/.bin/js-yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/esprima/bin/esparse.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/esprima/bin/esparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/esprima/bin/esvalidate.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/esprima/bin/esvalidate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/js-yaml/bin/js-yaml.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/coveralls/node_modules/js-yaml/bin/js-yaml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cross-spawn/node_modules/.bin/which" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cross-spawn/node_modules/.bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cross-spawn/node_modules/which/bin/which" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cross-spawn/node_modules/which/bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cryptiles/.travis.yml" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cryptiles/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cryptiles/LICENSE" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cryptiles/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cryptiles/lib/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cryptiles/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cryptiles/package.json" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cryptiles/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cryptiles/test/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/cryptiles/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/esprima/bin/esparse.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/esprima/bin/esparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/esprima/bin/esvalidate.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/esprima/bin/esvalidate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/exit/test/fixtures/create-files.sh" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/exit/test/fixtures/create-files.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-angular-templatecache/test/fixtures/multiline_crlf.html" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-angular-templatecache/test/fixtures/multiline_crlf.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-angular-templates/node_modules/.bin/cleancss" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-angular-templates/node_modules/.bin/cleancss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-angular-templates/node_modules/.bin/html-minifier" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-angular-templates/node_modules/.bin/html-minifier" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-angular-templates/node_modules/clean-css/bin/cleancss" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-angular-templates/node_modules/clean-css/bin/cleancss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-angular-templates/node_modules/html-minifier/cli.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-angular-templates/node_modules/html-minifier/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-cssmin/node_modules/.bin/cleancss" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-cssmin/node_modules/.bin/cleancss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-cssmin/node_modules/clean-css/bin/cleancss" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-cssmin/node_modules/clean-css/bin/cleancss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-cssmin/test/expected/inline_import.css" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-cssmin/test/expected/inline_import.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-htmlmin/node_modules/.bin/strip-ansi" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-htmlmin/node_modules/.bin/strip-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-htmlmin/node_modules/strip-ansi/cli.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-htmlmin/node_modules/strip-ansi/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-watch/node_modules/async/lib/async.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-contrib-watch/node_modules/async/lib/async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-legacy-util/test/fixtures/exec.sh" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-legacy-util/test/fixtures/exec.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-regex-replace/bin/grunt-regex-replace" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/grunt-regex-replace/bin/grunt-regex-replace" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/har-validator/bin/har-validator" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/har-validator/bin/har-validator" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/.travis.yml" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/LICENSE" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/README.md" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/example/usage.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/example/usage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/browser.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/client.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/crypto.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/crypto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/server.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/utils.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/package.json" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/browser.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/client.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/crypto.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/crypto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/readme.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/readme.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/server.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/uri.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/uri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/utils.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/hawk/test/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/html-minifier/cli.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/html-minifier/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/js-yaml/bin/js-yaml.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/js-yaml/bin/js-yaml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/bin/apply" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/bin/apply" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/bin/build" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/bin/build" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/bin/changelog" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/bin/changelog" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/bin/jshint" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/bin/jshint" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/bin/land" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/bin/land" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/cat.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/cat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/command.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/command.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/echo.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/echo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/glob.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/glob.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/long_desc.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/long_desc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/progress.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/progress.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/sort.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/sort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/spinner.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/spinner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/static.coffee" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/static.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/static.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/examples/static.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/package.json" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/jshint/node_modules/cli/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/node-uuid/benchmark/bench.sh" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/node-uuid/benchmark/bench.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/node-uuid/bin/uuid" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/node-uuid/bin/uuid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nodeunit/bin/nodeunit" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nodeunit/bin/nodeunit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nopt/bin/nopt.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nopt/bin/nopt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nopt/examples/my-program.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nopt/examples/my-program.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/noptify/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/noptify/node_modules/.bin/nopt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/noptify/node_modules/nopt/bin/nopt.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/noptify/node_modules/nopt/bin/nopt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/noptify/node_modules/nopt/examples/my-program.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/noptify/node_modules/nopt/examples/my-program.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/bin/nyc.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/bin/nyc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/babylon" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/handlebars" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/jsesc" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/jsesc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/loose-envify" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/loose-envify" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/mkdirp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/rimraf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/uglifyjs" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/which" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/.bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/arr-diff/LICENSE" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/arr-diff/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/arr-flatten/LICENSE" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/arr-flatten/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/arr-flatten/README.md" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/arr-flatten/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/arr-flatten/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/arr-flatten/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/arr-flatten/package.json" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/arr-flatten/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/array-unique/LICENSE" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/array-unique/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/array-unique/README.md" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/array-unique/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/array-unique/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/array-unique/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/array-unique/package.json" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/array-unique/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/babylon/bin/babylon.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/babylon/bin/babylon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/fill-range/LICENSE" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/fill-range/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/fill-range/README.md" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/fill-range/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/handlebars/bin/handlebars" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/handlebars/bin/handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/handlebars/print-script" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/handlebars/print-script" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/istanbul-lib-hook/docs/assets/bass.css" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/istanbul-lib-hook/docs/assets/bass.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/istanbul-lib-report/docs/assets/bass.css" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/istanbul-lib-report/docs/assets/bass.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/jsesc/bin/jsesc" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/jsesc/bin/jsesc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/loose-envify/cli.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/loose-envify/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/micromatch/LICENSE" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/micromatch/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/micromatch/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/micromatch/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/mkdirp/bin/cmd.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/mkdirp/bin/cmd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/optimist/test/_/bin.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/optimist/test/_/bin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/randomatic/LICENSE" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/randomatic/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/rimraf/bin.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/rimraf/bin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/semver/bin/semver" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/semver/bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/spawn-wrap/t.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/spawn-wrap/t.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/spawn-wrap/test/fixtures/npm" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/spawn-wrap/test/fixtures/npm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/spawn-wrap/test/fixtures/script.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/spawn-wrap/test/fixtures/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/spdx-license-ids/README.md" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/spdx-license-ids/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/uglify-js/bin/extract-props.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/uglify-js/bin/extract-props.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/uglify-js/bin/uglifyjs" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/uglify-js/bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/uglify-js/node_modules/async/lib/async.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/uglify-js/node_modules/async/lib/async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/which/bin/which" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/which/bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/wrap-ansi/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/wrap-ansi/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/yargs/node_modules/.bin/window-size" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/yargs/node_modules/.bin/window-size" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/yargs/node_modules/window-size/cli.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/nyc/node_modules/yargs/node_modules/window-size/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/opener/opener.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/opener/opener.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/pretty-bytes/cli.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/pretty-bytes/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/lib/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/lib/parse.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/lib/parse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/lib/stringify.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/lib/stringify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/lib/utils.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/test/parse.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/test/parse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/test/stringify.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/test/stringify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/test/utils.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/qs/test/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/request/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/request/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/requirejs/bin/r.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/requirejs/bin/r.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/rimraf/bin.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/rimraf/bin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/shelljs/bin/shjs" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/shelljs/bin/shjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/shelljs/scripts/docs.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/shelljs/scripts/docs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/shelljs/scripts/run-tests.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/shelljs/scripts/run-tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/shelljs/test/resources/external/node_script.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/shelljs/test/resources/external/node_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/.travis.yml" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/LICENSE" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/Makefile" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/README.md" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/examples/offset.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/examples/offset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/examples/time.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/examples/time.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/lib/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/package.json" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/test/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sntp/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/source-map/test/run-tests.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/source-map/test/run-tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sshpk/bin/sshpk-conv" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sshpk/bin/sshpk-conv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sshpk/bin/sshpk-sign" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sshpk/bin/sshpk-sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sshpk/bin/sshpk-verify" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/sshpk/bin/sshpk-verify" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/index.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/.bin/js-yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/esprima/bin/esparse.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/esprima/bin/esparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/esprima/bin/esvalidate.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/esprima/bin/esvalidate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/js-yaml/bin/js-yaml.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-mocha-reporter/node_modules/js-yaml/bin/js-yaml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/bin/cmd.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/bin/cmd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/.bin/js-yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/esprima/bin/esparse.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/esprima/bin/esparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/esprima/bin/esvalidate.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/esprima/bin/esvalidate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/js-yaml/bin/js-yaml.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap-parser/node_modules/js-yaml/bin/js-yaml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/bin/mochatap.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/bin/mochatap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/bin/run.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/bin/run.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/.bin/js-yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/esprima/bin/esparse.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/esprima/bin/esparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/esprima/bin/esvalidate.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/esprima/bin/esvalidate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/js-yaml/bin/js-yaml.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tap/node_modules/js-yaml/bin/js-yaml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tiny-lr-fork/bin/tiny-lr" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tiny-lr-fork/bin/tiny-lr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tiny-lr-fork/bin/update-livereload" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/tiny-lr-fork/bin/update-livereload" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/uglify-js/bin/extract-props.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/uglify-js/bin/extract-props.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/uglify-js/bin/uglifyjs" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/uglify-js/bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/uglify-js/node_modules/async/lib/async.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/uglify-js/node_modules/async/lib/async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/uglify-js/node_modules/source-map/test/run-tests.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/uglify-js/node_modules/source-map/test/run-tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/node_modules/which/bin/which" afterPath="$PROJECT_DIR$/root/src/main/webapp/node_modules/which/bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/vendor/bootstrap/grunt/change-version.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/vendor/bootstrap/grunt/change-version.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/vendor/jquery-color-animation/jquery.animate-colors-min.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/vendor/jquery-color-animation/jquery.animate-colors-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/vendor/jquery-color-animation/jquery.animate-colors.js" afterPath="$PROJECT_DIR$/root/src/main/webapp/vendor/jquery-color-animation/jquery.animate-colors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/webapp/ver.txt" afterPath="$PROJECT_DIR$/root/src/main/webapp/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/target/ROOT/ver.txt" afterPath="$PROJECT_DIR$/root/target/ROOT/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/target/generated-resources/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/root/target/generated-resources/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/root/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/root/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/root/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/src/main/webapp/ver.txt" afterPath="$PROJECT_DIR$/safepay/src/main/webapp/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/target/SafePay/WEB-INF/classes/ver.txt" afterPath="$PROJECT_DIR$/safepay/target/SafePay/WEB-INF/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/target/SafePay/ver.txt" afterPath="$PROJECT_DIR$/safepay/target/SafePay/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/target/classes/ver.txt" afterPath="$PROJECT_DIR$/safepay/target/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/target/generated-resources/internal_config_for_env.properties" afterPath="$PROJECT_DIR$/safepay/target/generated-resources/internal_config_for_env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/safepay/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/safepay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/safepay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/safepay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shared_resources/resources/dev/log4j.properties" afterPath="$PROJECT_DIR$/shared_resources/resources/dev/log4j.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/ObjectFactory.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/ObjectFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/PlaceShippingOrderRequest.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/PlaceShippingOrderRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/PlaceShippingOrderResponse.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/PlaceShippingOrderResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/Product.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/Product.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/SEAddress.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/SEAddress.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/SEProducts.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/SEProducts.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/ShippingCostRequest.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/ShippingCostRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/ShippingCostResponse.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/ShippingCostResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/TrackNumberRequest.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/TrackNumberRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/TrackNumberResponse.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/TrackNumberResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/package-info.java" afterPath="$PROJECT_DIR$/shipex/src/main/java/https/www_advantageonlinebanking_com/shipex/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/src/main/webapp/ver.txt" afterPath="$PROJECT_DIR$/shipex/src/main/webapp/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/ShipEx/WEB-INF/classes/ver.txt" afterPath="$PROJECT_DIR$/shipex/target/ShipEx/WEB-INF/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/ShipEx/ver.txt" afterPath="$PROJECT_DIR$/shipex/target/ShipEx/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/classes/ver.txt" afterPath="$PROJECT_DIR$/shipex/target/classes/ver.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/shipex/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/shipex/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/shipex/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/surefire-reports/ShippingExpress.ShipexApplicationTests.txt" afterPath="$PROJECT_DIR$/shipex/target/surefire-reports/ShippingExpress.ShipexApplicationTests.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shipex/target/surefire-reports/TEST-ShippingExpress.ShipexApplicationTests.xml" afterPath="$PROJECT_DIR$/shipex/target/surefire-reports/TEST-ShippingExpress.ShipexApplicationTests.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/catalog/target/dependency-maven-plugin-markers/" />
     <ignored path="$PROJECT_DIR$/catalog/target/maven-status/" />
@@ -62,13 +560,78 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="AOS" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="476">
+              <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categoriesCtrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="62" lean-forward="false" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountDeleteRequest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountDeleteRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#2328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/api/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="41" column="66" lean-forward="true" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shared_resources/resources/dev/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JacksonObjectMapperConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/JacksonObjectMapperConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebConfiguration2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/WebConfiguration2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -84,6 +647,18 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js" />
+        <option value="$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountDeleteRequest.java" />
+        <option value="$PROJECT_DIR$/shared_resources/resources/dev/log4j.properties" />
+        <option value="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/JacksonObjectMapperConfiguration.java" />
+        <option value="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/WebConfiguration2.java" />
+      </list>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="enabledProfiles">
       <list>
@@ -93,11 +668,14 @@
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="290" />
-    <option name="y" value="64" />
-    <option name="width" value="1400" />
-    <option name="height" value="863" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1372" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,8 +693,143 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="webapp">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="webapp">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="webapp">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="controllers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resources">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,13 +896,316 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.advantage.root.store.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Maven.AOS">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -197,6 +1213,61 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -222,6 +1293,41 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -241,6 +1347,52 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="accountservice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -343,43 +1495,129 @@
       <option name="presentableId" value="Default" />
       <updated>1485741034474</updated>
     </task>
+    <task id="LOCAL-00001" summary="Category Change">
+      <created>1489711688061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1489711688061</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Demo for Lyndsey">
+      <created>1489764324377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489764324377</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Reset Demo">
+      <created>1489765096960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1489765096960</updated>
+    </task>
+    <task id="LOCAL-00004" summary="user story #3001: As a user, I want to go home and have a mojito">
+      <created>1490900115281</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1490900115281</updated>
+    </task>
+    <task id="LOCAL-00005" summary="user story #3001: As a user, I want to go home and have a mojito">
+      <created>1499818378653</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1499818378653</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TaskboardConfiguration" showUserStories="true" showDefects="true" showBlocked="true" showStatuses="&lt;all&gt;" assignTask="false" deactivateItem="false" activateItem="false" />
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="290" y="64" width="1400" height="863" extended-state="0" />
+    <frame x="-8" y="-8" width="1372" height="780" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5519481" sideWeight="0.29163346" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="ALM Octane" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3888889" sideWeight="0.4565549" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40192926" sideWeight="0.443769" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3888889" sideWeight="0.5434451" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.49721116" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2942073" sideWeight="0.4915254" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28924304" sideWeight="0.5084746" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="HPE ALM Octane" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947233" sideWeight="0.51412743" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="HP ALI" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25324675" sideWeight="0.48587257" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Category Change" />
+    <MESSAGE value="Demo for Lyndsey" />
+    <MESSAGE value="Reset Demo" />
+    <MESSAGE value="user story #3001: As a user, I want to go home and have a mojito" />
+    <MESSAGE value="user story #48034: New method added" />
+    <option name="LAST_COMMIT_MESSAGE" value="user story #48034: New method added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -392,11 +1630,421 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="476">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="62" lean-forward="false" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountDeleteRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="62" lean-forward="false" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountDeleteRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="62" lean-forward="false" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountDeleteRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="62" lean-forward="false" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountDeleteRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/webapp/app/controllers/categoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="62" lean-forward="false" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountDeleteRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/api/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="41" column="66" lean-forward="true" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared_resources/resources/dev/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/JacksonObjectMapperConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/WebConfiguration2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>accountservice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

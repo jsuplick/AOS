@@ -24,8 +24,8 @@
 /home/hpe/IdeaProjects/AOS/common/src/main/java/com/advantage/common/exceptions/token/VerificationTokenException.java
 /home/hpe/IdeaProjects/AOS/common/src/main/java/com/advantage/common/exceptions/token/SignatureAlgorithmException.java
 /home/hpe/IdeaProjects/AOS/common/src/main/java/com/advantage/common/enums/YesNoReply.java
-/home/hpe/IdeaProjects/AOS/common/src/main/java/com/advantage/common/dto/DemoAppConfigParameter.java
 /home/hpe/IdeaProjects/AOS/common/src/main/java/com/advantage/common/dto/CategoryDto.java
+/home/hpe/IdeaProjects/AOS/common/src/main/java/com/advantage/common/dto/DemoAppConfigParameter.java
 /home/hpe/IdeaProjects/AOS/common/src/main/java/com/advantage/common/dto/AppUserConfigurationResponseStatus.java
 /home/hpe/IdeaProjects/AOS/common/src/main/java/com/advantage/common/dto/CountryResponseDto.java
 /home/hpe/IdeaProjects/AOS/common/src/main/java/com/advantage/common/dto/DemoAppConfigParameterDto.java

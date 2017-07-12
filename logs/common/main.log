@@ -1,4 +1,4 @@
-*     20:52:27.722 [main](       0 msec from start) [ERROR] com.advantage.common.security.TokenJWT.parseToken:84
+*     11:01:19.548 [main](       1 msec from start) [ERROR] com.advantage.common.security.TokenJWT.parseToken:84
 The token signed by HS512 algorithm, but must be signed with HS256 (HmacSHA256)
 com.advantage.common.exceptions.token.SignatureAlgorithmException: The token signed by HS512 algorithm, but must be signed with HS256 (HmacSHA256)
 	at com.advantage.common.security.TokenJWT.parseToken(TokenJWT.java:83)

@@ -1,24 +1,24 @@
-*     20:52:45.670 [main](    2016 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
+*     11:01:51.110 [main](    3357 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
 HHH000389: Unsuccessful: alter table ColorAttribute drop constraint FK_4lh8tvtjlay7fe917fyy18t0e
-*     20:52:45.671 [main](    2017 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
+*     11:01:51.209 [main](    3456 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
 user lacks privilege or object not found: PUBLIC.COLORATTRIBUTE
-*     20:52:45.672 [main](    2018 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
+*     11:01:51.209 [main](    3456 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
 HHH000389: Unsuccessful: alter table DEALS drop constraint FK_4jv7j0353g8hkm4vcyosbkm5a
-*     20:52:45.673 [main](    2019 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
+*     11:01:51.210 [main](    3457 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
 user lacks privilege or object not found: PUBLIC.DEALS
-*     20:52:45.674 [main](    2020 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
+*     11:01:51.255 [main](    3502 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
 HHH000389: Unsuccessful: alter table ImageAttribute drop constraint FK_q5wu95vfxew1pxed2ygy109ny
-*     20:52:45.675 [main](    2021 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
+*     11:01:51.267 [main](    3514 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
 user lacks privilege or object not found: PUBLIC.IMAGEATTRIBUTE
-*     20:52:45.677 [main](    2023 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
+*     11:01:51.269 [main](    3516 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
 HHH000389: Unsuccessful: alter table PRODUCT drop constraint FK_6oweamgjibmex1v06bgk59asd
-*     20:52:45.680 [main](    2026 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
+*     11:01:51.269 [main](    3516 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
 user lacks privilege or object not found: PUBLIC.PRODUCT
-*     20:52:45.682 [main](    2028 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
+*     11:01:51.270 [main](    3517 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
 HHH000389: Unsuccessful: alter table PRODUCT_ATTRIBUTES drop constraint FK_jbumqcl8sam9w1clh3cdm2s38
-*     20:52:45.684 [main](    2030 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
+*     11:01:51.271 [main](    3518 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
 user lacks privilege or object not found: PUBLIC.PRODUCT_ATTRIBUTES
-*     20:52:45.687 [main](    2033 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
+*     11:01:51.272 [main](    3519 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:426
 HHH000389: Unsuccessful: alter table PRODUCT_ATTRIBUTES drop constraint FK_6rqlij3051my7v5491rx2q90a
-*     20:52:45.687 [main](    2033 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
+*     11:01:51.273 [main](    3520 msec from start) [ERROR] org.hibernate.tool.hbm2ddl.SchemaExport.perform:427
 user lacks privilege or object not found: PUBLIC.PRODUCT_ATTRIBUTES

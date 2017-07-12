@@ -1,6 +1,6 @@
 ShippingExpress/config/WebServiceConfig.class
-ShippingExpress/model/DefaultShippingExpressRepository.class
 https/www_advantageonlinebanking_com/shipex/TrackNumberResponse.class
+ShippingExpress/model/DefaultShippingExpressRepository.class
 ShippingExpress/util/ArgumentValidationHelper.class
 ShippingExpress/WsModel/Product.class
 https/www_advantageonlinebanking_com/shipex/SEAddress.class
@@ -15,15 +15,15 @@ ShippingExpress/WsModel/SEAddress.class
 ShippingExpress/WsModel/TrackNumberRequest.class
 https/www_advantageonlinebanking_com/shipex/Product.class
 https/www_advantageonlinebanking_com/shipex/PlaceShippingOrderRequest.class
-ShippingExpress/ShipexApplication.class
-https/www_advantageonlinebanking_com/shipex/PlaceShippingOrderResponse.class
 https/www_advantageonlinebanking_com/shipex/SEProducts.class
+https/www_advantageonlinebanking_com/shipex/PlaceShippingOrderResponse.class
+ShippingExpress/ShipexApplication.class
 ShippingExpress/WsModel/ObjectFactory.class
 https/www_advantageonlinebanking_com/shipex/package-info.class
-ShippingExpress/WsModel/ShippingCostRequest.class
 https/www_advantageonlinebanking_com/shipex/ShippingCostRequest.class
+ShippingExpress/WsModel/ShippingCostRequest.class
 ShippingExpress/WsModel/SEProducts.class
 https/www_advantageonlinebanking_com/shipex/TrackNumberRequest.class
-ShippingExpress/model/ShippingExpressService.class
 https/www_advantageonlinebanking_com/shipex/ObjectFactory.class
+ShippingExpress/model/ShippingExpressService.class
 ShippingExpress/WsModel/PlaceShippingOrderResponse.class

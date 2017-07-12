@@ -193,7 +193,5 @@ define(['./module'], function (controllers) {
                 s.slowPageString = res;
             });
 
-
-
         }]);
 });

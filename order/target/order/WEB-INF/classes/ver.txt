@@ -1,6 +1,6 @@
-mvn.buildTime=2017-01-29 20:52:18
-mvn.scmBranch=UNKNOWN_BRANCH
-mvn.commit.revision=UNKNOWN COMMIT REV ID
+mvn.buildTime=2017-03-16 11:01:01
+mvn.scmBranch=master
+mvn.commit.revision=19c77535
 mvn.project.build.finalName=order
 mvn.project.version=1.0-SNAPSHOT
 mvn.buildComputerName=Unknown *nix machine

@@ -35,8 +35,8 @@ com/advantage/common/dto/DemoAppConfigResponse.class
 com/advantage/common/dto/CategoryDto.class
 com/advantage/common/enums/ProductStatusEnum.class
 com/advantage/common/dto/AppUserConfigurationResponseStatus.class
-com/advantage/common/dto/DemoAppConfigParameterDto.class
 com/advantage/common/dto/PromotedProductDto.class
+com/advantage/common/dto/DemoAppConfigParameterDto.class
 com/advantage/common/enums/PaymentMethodEnum.class
 com/advantage/common/Url_resources.class
 com/advantage/common/exceptions/token/TokenException.class
@@ -48,15 +48,15 @@ com/advantage/common/dto/ImageUrlResponseDto.class
 com/advantage/common/dto/DemoAppConfigRestoreFactorySettingsResponse.class
 com/advantage/common/dto/CategoryProductAttributeItem.class
 com/advantage/common/dto/CatalogResponse.class
-com/advantage/common/Constants$UserSession.class
 com/advantage/common/dto/AppUserDto.class
+com/advantage/common/Constants$UserSession.class
 com/advantage/common/security/AuthorizeAsAdmin.class
 com/advantage/common/dto/ErrorResponseDto.class
 com/advantage/common/dto/AttributeItem.class
 com/advantage/common/enums/YesNoReply.class
 com/advantage/common/dto/DemoAppConfigGetAllParametersResponse.class
-com/advantage/common/dto/CategoriesDto.class
 com/advantage/common/dto/DemoAppConfigParametersDto.class
+com/advantage/common/dto/CategoriesDto.class
 com/advantage/common/enums/TransactionTypeEnum.class
 com/advantage/common/security/TokenJWT.class
 com/advantage/common/SystemParameters.class
