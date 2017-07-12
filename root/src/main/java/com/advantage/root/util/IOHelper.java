@@ -20,13 +20,7 @@ public abstract class IOHelper {
     }
 
     /**
-     * Get the content of the file in the given file path, as a byte array.
-     *
-     * @param filePath the path of the file to get it's content as a byte array.
-     * @return the content of the file in the given file path, as a byte array.
-     * @throws IOException              if an I/O error occurs.
-     * @throws IllegalArgumentException if the given file path argument references
-     *                                  <b>null</b>, or if it <b>is</b> a blank string.
+                                <b>null</b>, or if it <b>is</b> a blank string.
      */
     public static byte[] fileContentToByteArray(final String filePath) throws IOException {
 

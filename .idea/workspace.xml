@@ -21,8 +21,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="840430ae-691c-489a-848a-0bc61891bc06" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/WebConfiguration2.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/WebConfiguration2.java" afterPath="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/WebConfiguration2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/java/com/advantage/root/util/IOHelper.java" afterPath="$PROJECT_DIR$/root/src/main/java/com/advantage/root/util/IOHelper.java" />
     </list>
     <ignored path="$PROJECT_DIR$/catalog/target/dependency-maven-plugin-markers/" />
     <ignored path="$PROJECT_DIR$/catalog/target/maven-status/" />
@@ -149,11 +151,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebConfiguration2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/WebConfiguration2.java">
+      <file leaf-file-name="IOHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/root/src/main/java/com/advantage/root/util/IOHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -178,6 +180,7 @@
         <option value="$PROJECT_DIR$/shared_resources/resources/dev/log4j.properties" />
         <option value="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/JacksonObjectMapperConfiguration.java" />
         <option value="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/WebConfiguration2.java" />
+        <option value="$PROJECT_DIR$/root/src/main/java/com/advantage/root/util/IOHelper.java" />
       </list>
     </option>
   </component>
@@ -481,6 +484,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1059,7 +1066,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499823709035</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="user story #48034: I changed all of the blue icons to green ones.">
+      <created>1499825026197</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1499825026197</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TaskboardConfiguration" showUserStories="true" showDefects="true" showBlocked="true" showStatuses="&lt;all&gt;" assignTask="false" deactivateItem="false" activateItem="false" />
@@ -1131,6 +1145,14 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -1146,7 +1168,8 @@
     <MESSAGE value="Reset Demo" />
     <MESSAGE value="user story #3001: As a user, I want to go home and have a mojito" />
     <MESSAGE value="user story #48034: New method added" />
-    <option name="LAST_COMMIT_MESSAGE" value="user story #48034: New method added" />
+    <MESSAGE value="user story #48034: I changed all of the blue icons to green ones." />
+    <option name="LAST_COMMIT_MESSAGE" value="user story #48034: I changed all of the blue icons to green ones." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1483,6 +1506,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/root/src/main/java/com/advantage/root/util/IOHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
