@@ -23,7 +23,7 @@
     <list default="true" id="840430ae-691c-489a-848a-0bc61891bc06" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/model/category/Category.java" afterPath="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/model/category/Category.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/model/OrderHeader.java" afterPath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/model/OrderHeader.java" />
     </list>
     <ignored path="$PROJECT_DIR$/catalog/target/dependency-maven-plugin-markers/" />
     <ignored path="$PROJECT_DIR$/catalog/target/maven-status/" />
@@ -160,11 +160,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Category.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Category.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/model/category/Category.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="80" lean-forward="true" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
+            <state relative-caret-position="221">
+              <caret line="16" column="74" lean-forward="false" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderHeader.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/model/OrderHeader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="38" column="68" lean-forward="true" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -173,6 +183,12 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jean Suplick" />
+        <option value="jean.suplick@orasi.com" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -191,6 +207,7 @@
         <option value="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/WebConfiguration2.java" />
         <option value="$PROJECT_DIR$/root/src/main/java/com/advantage/root/util/IOHelper.java" />
         <option value="$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/model/category/Category.java" />
+        <option value="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/model/OrderHeader.java" />
       </list>
     </option>
   </component>
@@ -759,6 +776,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="api" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1136,7 +1187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1499825941818</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="user story #48014: Added a new category">
+      <created>1499826114151</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1499826114151</updated>
+    </task>
+    <task id="LOCAL-00010" summary="defect #48014: Removed a new category">
+      <created>1499826366296</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1499826366296</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TaskboardConfiguration" showUserStories="true" showDefects="true" showBlocked="true" showStatuses="&lt;all&gt;" assignTask="false" deactivateItem="false" activateItem="false" />
@@ -1151,7 +1216,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1372" height="780" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5519481" sideWeight="0.29163346" order="6" side_tool="false" content_ui="tabs" />
@@ -1234,7 +1298,9 @@
     <MESSAGE value="user story #48034: I changed all of the blue icons to green ones." />
     <MESSAGE value="user story #48028: Updated comments" />
     <MESSAGE value="user story #48014: Added a new category" />
-    <option name="LAST_COMMIT_MESSAGE" value="user story #48014: Added a new category" />
+    <MESSAGE value="defect #48014: Removed a new category" />
+    <MESSAGE value="defect #48015: Renamed methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="defect #48015: Renamed methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1585,8 +1651,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/model/category/Category.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="80" lean-forward="true" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
+        <state relative-caret-position="221">
+          <caret line="16" column="74" lean-forward="false" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/model/OrderHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="38" column="68" lean-forward="true" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
           <folding />
         </state>
       </provider>

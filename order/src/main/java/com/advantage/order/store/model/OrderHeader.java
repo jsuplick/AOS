@@ -33,10 +33,15 @@ import javax.persistence.*;
 })
 public class OrderHeader {
 
-    public static final String QUERY_GET_ORDERS_BY_USER_ID = "orderHeader.getOrdersByUserId";
+    public static final String QUERY_GET_ORDERS_BY_USER_ID = "orderHeadr.getOrdersByUserId";
+    public static final String QUERY_GET_All_ORDERS_HISTORY = "orderHeaer.getAllOrdersHistory";
+    public static final String QUERY_GET_ORDER_BY_PK_COLUMNS = "orderHeaer.getOrderByPkColumns";
+    public static final String QUERY_GET_ORDER_BY_ORDER = "orderHeadr.getOrderByOrderID";
+
+    /*public static final String QUERY_GET_ORDERS_BY_USER_ID = "orderHeader.getOrdersByUserId";
     public static final String QUERY_GET_All_ORDERS_HISTORY = "orderHeader.getAllOrdersHistory";
     public static final String QUERY_GET_ORDER_BY_PK_COLUMNS = "orderHeader.getOrderByPkColumns";
-    public static final String QUERY_GET_ORDER_BY_ORDER = "orderHeader.getOrderByOrderID";
+    public static final String QUERY_GET_ORDER_BY_ORDER = "orderHeader.getOrderByOrderID"; */
 
     public static final String FIELD_USER_ID = "user_id";
     public static final String FIELD_ORDER_NUMBER = "order_number";
