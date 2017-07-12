@@ -10,3 +10,8 @@ public abstract class AbstractRepository {
     @PersistenceContext
     protected EntityManager entityManager;
 }
+
+public abstract class ConcreteRepository {
+    @PersistenceContext
+    protected EntityManager entityManager;
+}
