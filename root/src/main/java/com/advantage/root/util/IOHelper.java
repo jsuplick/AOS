@@ -15,12 +15,11 @@ import java.io.OutputStream;
 public abstract class IOHelper {
 
     private IOHelper() {
-
         throw new UnsupportedOperationException();
-    }
+   }
 
     /**
-                                <b>null</b>, or if it <b>is</b> a blank string.
+    <b>null</b>, or if it <b>is</b> a blank string.
      */
     public static byte[] fileContentToByteArray(final String filePath) throws IOException {
 
