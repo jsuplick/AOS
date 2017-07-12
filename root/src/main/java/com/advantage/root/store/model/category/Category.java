@@ -14,7 +14,7 @@ public class Category {
 
     public static final String FIELD_CATEGORY_ID = "categoryId";
 
-    public static final String FIELD_CATEGORY_NAME = "categoryName";
+   /*   public static final String FIELD_CATEGORY_NAME = "categoryName";*/
 
     public static final String PARAM_CATEGORY_ID = "CATEGORY_PARAM_CATEGORY_ID";
 
