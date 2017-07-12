@@ -1261,7 +1261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499827312381</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="user story #46026: Implemented methods to support user story">
+      <created>1499827940289</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1499827940289</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TaskboardConfiguration" showUserStories="true" showDefects="true" showBlocked="true" showStatuses="&lt;all&gt;" assignTask="false" deactivateItem="false" activateItem="false" />
@@ -1361,7 +1368,8 @@
     <MESSAGE value="defect #48014: Removed a new category" />
     <MESSAGE value="defect #48015: Renamed methods" />
     <MESSAGE value="defect #48013: Expanded the methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="defect #48013: Expanded the methods" />
+    <MESSAGE value="user story #46026: Implemented methods to support user story" />
+    <option name="LAST_COMMIT_MESSAGE" value="user story #46026: Implemented methods to support user story" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1393,7 +1401,7 @@
         <state relative-caret-position="289">
           <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding>
-            <element signature="e#0#2328#0" expanded="true" />
+            <element signature="e#0#2328#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1419,7 +1427,7 @@
         <state relative-caret-position="289">
           <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding>
-            <element signature="e#0#2328#0" expanded="true" />
+            <element signature="e#0#2328#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1445,7 +1453,7 @@
         <state relative-caret-position="136">
           <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
           <folding>
-            <element signature="e#0#2328#0" expanded="true" />
+            <element signature="e#0#2328#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1471,7 +1479,7 @@
         <state relative-caret-position="51">
           <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
           <folding>
-            <element signature="e#0#2328#0" expanded="true" />
+            <element signature="e#0#2328#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1665,7 +1673,7 @@
         <state relative-caret-position="17">
           <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding>
-            <element signature="e#0#2328#0" expanded="true" />
+            <element signature="e#0#2328#0" expanded="false" />
           </folding>
         </state>
       </provider>
