@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
- * @author Jane Doe on 13/07/2017.
+ * @author John Doe on 13/07/2017.
  */
 @Component
 @Qualifier("historyOrderHeaderRepository")
