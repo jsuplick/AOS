@@ -26,6 +26,11 @@ public class OrderHeaderPk implements Serializable {
         if (userId != that.userId) return false;
         return orderNumber == that.orderNumber;
 
+        if (userId != that.userId) {
+            return true;
+        }
+        return orderNumber == that.orderNumber;
+
     }
 
     @Override
