@@ -15,6 +15,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 })*/
 public class SafePayRequest {
 
+
     @JsonProperty("SPTransactionType")
     private String transactionType;   //  PAYMENT - TransactioTypeEnum.PAYMENT
 
