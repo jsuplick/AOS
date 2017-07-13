@@ -9,8 +9,6 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
- * @author Moti Ostrovski on 30/05/2016.
- * @author Binyamin Regev on 24/07/2016.
  * @author Jane Doe on 13/07/2017.
  */
 @Component

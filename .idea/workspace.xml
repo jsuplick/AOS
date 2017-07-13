@@ -131,8 +131,8 @@
       <file leaf-file-name="DefaultHistoryOrderHeaderRepository.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/dao/DefaultHistoryOrderHeaderRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="45">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1241,7 +1241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499952777517</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="defect #48031: Updated liste of authors">
+      <created>1499952990251</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1499952990251</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TaskboardConfiguration" showUserStories="true" showDefects="true" showBlocked="true" showStatuses="&lt;all&gt;" assignTask="false" deactivateItem="false" activateItem="false" />
@@ -1345,7 +1352,8 @@
     <MESSAGE value="user story #46026: Implemented methods to support user story" />
     <MESSAGE value="user story #48029: Changed SQL query" />
     <MESSAGE value="defect #48021, defect #48015: Updated liste of authors" />
-    <option name="LAST_COMMIT_MESSAGE" value="defect #48021, defect #48015: Updated liste of authors" />
+    <MESSAGE value="defect #48031: Updated liste of authors" />
+    <option name="LAST_COMMIT_MESSAGE" value="defect #48031: Updated liste of authors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1729,8 +1737,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/dao/DefaultHistoryOrderHeaderRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="45">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
