@@ -24,8 +24,7 @@ import com.fasterxml.jackson.databind.annotation.JsonSerialize;
  *  ------------------------------------------
  *  SafePayPaymentInformation:
  *  ------------------------------------------
- *  SafePay.username, 							# SafePay ONLY
- *  SafePay.password, 							# SafePay ONLY
+
  */
 @JsonSerialize(include = JsonSerialize.Inclusion.NON_NULL)
 public class OrderPaymentInformation {

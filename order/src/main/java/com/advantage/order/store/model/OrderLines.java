@@ -35,6 +35,11 @@ import javax.persistence.*;
                 "where " + OrderLines.FIELD_ORDER_NUMBER + " = :" + OrderLines.PARAM_ORDER_NUMBER +
                 " order by o.orderNumber ASC, o.productName ASC, o.productColorName ASC"
         )
+        name = OrderLines.QUERY_GET_ORDER_LINES_BY_ORDER,
+        query = "select o from OrderLines o " +
+                "where " + OrderLines.FIELD_ORDER_NUMBER + " = :" + OrderLines.PARAM_ORDER_NUMBER +
+                " order by o.orderNumber ASC, o.productName ASC, o.productColorName ASC"
+)
 })
 public class OrderLines {
 
