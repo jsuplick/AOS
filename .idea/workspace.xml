@@ -21,8 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="840430ae-691c-489a-848a-0bc61891bc06" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/log/AdvantageDaoCallsLoggingAspect.java" afterPath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/log/AdvantageDaoCallsLoggingAspect.java" />
     </list>
     <ignored path="$PROJECT_DIR$/catalog/target/dependency-maven-plugin-markers/" />
     <ignored path="$PROJECT_DIR$/catalog/target/maven-status/" />
@@ -161,8 +161,8 @@
       <file leaf-file-name="AdvantageDaoCallsLoggingAspect.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/log/AdvantageDaoCallsLoggingAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -1487,7 +1487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499967611734</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="user story #43029: changed date format">
+      <created>1499967626790</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1499967626790</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TaskboardConfiguration" showUserStories="true" showDefects="true" showBlocked="true" showStatuses="&lt;all&gt;" assignTask="false" deactivateItem="false" activateItem="false" />
@@ -2006,8 +2013,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/log/AdvantageDaoCallsLoggingAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
           <folding />
         </state>
       </provider>
