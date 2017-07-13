@@ -22,8 +22,6 @@
   <component name="ChangeListManager">
     <list default="true" id="840430ae-691c-489a-848a-0bc61891bc06" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/dto/OrderPaymentInformation.java" afterPath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/dto/OrderPaymentInformation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/model/OrderLines.java" afterPath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/model/OrderLines.java" />
     </list>
     <ignored path="$PROJECT_DIR$/catalog/target/dependency-maven-plugin-markers/" />
     <ignored path="$PROJECT_DIR$/catalog/target/maven-status/" />
@@ -192,8 +190,8 @@
       <file leaf-file-name="OrderLines.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/model/OrderLines.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="41" column="1" lean-forward="false" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            <state relative-caret-position="370">
+              <caret line="48" column="65" lean-forward="false" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -1511,7 +1509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499967841654</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="defect #48013: added query">
+      <created>1499967878231</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1499967878231</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TaskboardConfiguration" showUserStories="true" showDefects="true" showBlocked="true" showStatuses="&lt;all&gt;" assignTask="false" deactivateItem="false" activateItem="false" />
@@ -1625,7 +1630,8 @@
     <MESSAGE value="user story #48029: changed date format" />
     <MESSAGE value="user story #48034: updated SQL quer" />
     <MESSAGE value="defect #48008: changed tooltips" />
-    <option name="LAST_COMMIT_MESSAGE" value="defect #48008: changed tooltips" />
+    <MESSAGE value="defect #48013: added query" />
+    <option name="LAST_COMMIT_MESSAGE" value="defect #48013: added query" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2035,8 +2041,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/model/OrderLines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="41" column="1" lean-forward="false" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        <state relative-caret-position="370">
+          <caret line="48" column="65" lean-forward="false" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
           <folding />
         </state>
       </provider>
