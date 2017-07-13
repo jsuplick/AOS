@@ -18,6 +18,8 @@ public abstract class IOHelper {
         throw new UnsupportedOperationException();
    }
 
+
+
     /**
     <b>null</b>, or if it <b>is</b> a blank string.
      */
