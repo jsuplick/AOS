@@ -22,7 +22,7 @@
   <component name="ChangeListManager">
     <list default="true" id="840430ae-691c-489a-848a-0bc61891bc06" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/dto/SafePayRequest.java" afterPath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/dto/SafePayRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/log/AdvantageDaoCallsLoggingAspect.java" afterPath="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/log/AdvantageDaoCallsLoggingAspect.java" />
     </list>
     <ignored path="$PROJECT_DIR$/catalog/target/dependency-maven-plugin-markers/" />
     <ignored path="$PROJECT_DIR$/catalog/target/maven-status/" />
@@ -148,24 +148,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SafePayRequest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SafePayRequest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/dto/SafePayRequest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JacksonObjectMapperConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/root/src/main/java/com/advantage/root/store/config/JacksonObjectMapperConfiguration.java">
+      <file leaf-file-name="AdvantageDaoCallsLoggingAspect.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/log/AdvantageDaoCallsLoggingAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -246,6 +244,7 @@
         <option value="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/dto/ShipExRequest.java" />
         <option value="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/model/OrderHeaderPk.java" />
         <option value="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/dto/SafePayRequest.java" />
+        <option value="$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/log/AdvantageDaoCallsLoggingAspect.java" />
       </list>
     </option>
   </component>
@@ -677,6 +676,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1440,7 +1473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499967519477</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="user story #43028: Added currency calc">
+      <created>1499967560065</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1499967560065</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TaskboardConfiguration" showUserStories="true" showDefects="true" showBlocked="true" showStatuses="&lt;all&gt;" assignTask="false" deactivateItem="false" activateItem="false" />
@@ -1549,7 +1589,8 @@
     <MESSAGE value="user story #46026: Added new service" />
     <MESSAGE value="user story #46038: Added comments" />
     <MESSAGE value="user story #4308: Modified OrderHeaderPk" />
-    <option name="LAST_COMMIT_MESSAGE" value="user story #4308: Modified OrderHeaderPk" />
+    <MESSAGE value="user story #43028: Added currency calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="user story #43028: Added currency calc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1560,13 +1601,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/accountservice/src/main/java/accountservice/store/online/advantage/com/AccountDeleteRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -1957,7 +1991,15 @@
     <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/dto/SafePayRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/advantage/order/store/log/AdvantageDaoCallsLoggingAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
         </state>
       </provider>

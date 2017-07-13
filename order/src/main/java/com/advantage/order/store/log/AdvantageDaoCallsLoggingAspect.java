@@ -19,7 +19,9 @@ public class AdvantageDaoCallsLoggingAspect {
 
         ArgumentValidationHelper.validateArgumentIsNotNull(joinPoint, "join point");
         logDaoCall(joinPoint, true);
+        /* */
     }
+
 
     @After("execution(* com.advantage.order.store.dao.*.*(..))")
     public void logAfterDaoCall(final JoinPoint joinPoint) {
