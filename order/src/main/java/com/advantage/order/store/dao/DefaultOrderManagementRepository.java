@@ -31,7 +31,7 @@ public class DefaultOrderManagementRepository extends AbstractRepository impleme
     private static final String MESSAGE_ORDER_NOT_FOUND_TRACKING_NUMBER_NOT_UPDATED = "Purchase order not found, tracking number not updated";
 
     private OrderPurchaseResponse orderPurchaseResponse = null;
-
+    private OrderPurchaseResponse orderPurchaseResponse3 = null;
     /**
      * Add an order to {@code Entities} {@link OrderHeader} and {@link OrderLines} in <b><i>ORDER</i></b> Schema.
      * @param userId
