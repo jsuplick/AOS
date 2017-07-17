@@ -32,8 +32,8 @@ public class WSDLFile_fordev {
         //SOAPMessage request = MessageFactory
         //                        .newInstance()
         //                        .createMessage(null, new FileOutputStream("MyShipExMessage.xml"));
-        //SOAPMessage response = dispatch.invoke(request);
-        //response.writeTo(System.out);
+        SOAPMessage response = dispatch.invoke(request);
+        response.writeTo(System.out);
 
         SOARequestCreator creator = new SOARequestCreator(wsdl, new RequestTemplateCreator(), new MarkupBuilder(writer));
 

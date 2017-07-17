@@ -30,8 +30,8 @@ public class SOAPRequest {
             SOAPConnection connection = sfc.createConnection();
             System.out.println("SOAPConnection connection = " + connection + "\n");
 
-            System.out.println("MessageFactory mf = MessageFactory.newInstance();");
-            MessageFactory mf = MessageFactory.newInstance();
+            /*System.out.println("MessageFactory mf = MessageFactory.newInstance();");
+            MessageFactory mf = MessageFactory.newInstance();*/
 
             System.out.println("SOAPMessage sm = mf.createMessage();");
             SOAPMessage sm = mf.createMessage();
