@@ -13,6 +13,8 @@ import java.util.List;
 @JsonSerialize(include = JsonSerialize.Inclusion.NON_NULL)
 public class HistoryOrderLinesDto {
 
+
+
     @JsonProperty("UserId")
     private long userId;
     @JsonProperty("OrderNumber")

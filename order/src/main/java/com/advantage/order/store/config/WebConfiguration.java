@@ -58,7 +58,6 @@ public class WebConfiguration extends SpringDataWebConfiguration {
 
     @Override
     public void addViewControllers(ViewControllerRegistry registry) {
-
     }
 
     @Override

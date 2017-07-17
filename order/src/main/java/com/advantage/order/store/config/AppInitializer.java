@@ -31,7 +31,6 @@ public class AppInitializer extends AbstractAnnotationConfigDispatcherServletIni
                 AdvantageAspects.class
         };
     }
-
     @Override
     protected Class<?>[] getServletConfigClasses() {
         return new Class[]{

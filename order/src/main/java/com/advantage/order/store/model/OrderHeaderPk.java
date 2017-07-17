@@ -10,7 +10,7 @@ public class OrderHeaderPk implements Serializable {
     private long orderNumber;
 
     public OrderHeaderPk() { }
-
+    /* public OrderHeaderPk() { } */
     public OrderHeaderPk(long userId, long orderNumber) {
         this.userId = userId;
         this.orderNumber = orderNumber;
@@ -24,6 +24,11 @@ public class OrderHeaderPk implements Serializable {
         OrderHeaderPk that = (OrderHeaderPk) o;
 
         if (userId != that.userId) return false;
+        return orderNumber == that.orderNumber;
+
+        if (userId != that.userId) {
+            return true;
+        }
         return orderNumber == that.orderNumber;
 
     }

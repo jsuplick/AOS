@@ -34,6 +34,7 @@ public interface ShoppingBasketRepository extends DefaultCRUDOperations<Shopping
     void add(ShoppingCart shoppingCart);
 
     /* Update   */
+
     /*  Update a single product in user's ShoppingCart  */
     @Transactional
     ShoppingCartResponse update(long userId, Long productId, int color, int quantity);
