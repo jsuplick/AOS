@@ -18,6 +18,8 @@ public abstract class IOHelper {
         throw new UnsupportedOperationException();
    }
 
+
+
     /**
     <b>null</b>, or if it <b>is</b> a blank string.
      */
@@ -39,6 +41,7 @@ public abstract class IOHelper {
      * @throws IOException              if an I/O error occurs.
      * @throws IllegalArgumentException if the given file argument references ,<b>null</b>.
      */
+
     public static byte[] fileContentToByteArray(final File file) throws IOException {
 
         ArgumentValidationHelper.validateArgumentIsNotNull(file, "file");

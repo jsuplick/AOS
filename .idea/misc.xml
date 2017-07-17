@@ -45,8 +45,8 @@
       </list>
     </option>
   </component>
-  <component name="OctanePluginConnectionSettings" Url="https://mqast001pngx.saas.hpe.com" SharedSpace="4048" WorkSpace="9001" User="jean.suplick@orasi.com" />
-  <component name="OctanePluginState" EXPECTED_COMMIT_MESSAGE="{&quot;value&quot;:&quot;user story #46026: Implemented methods to support user story&quot;}" />
+  <component name="OctanePluginConnectionSettings" Url="https://mqast001pngx.saas.hpe.com" SharedSpace="4048" WorkSpace="14001" User="jean.suplick@orasi.com" />
+  <component name="OctanePluginState" ACTIVE_WORK_ITEM="{&quot;entityType&quot;:&quot;USER_STORY&quot;,&quot;entityName&quot;:&quot;As a user, I can re-download any of my purchases by selecting them in the  My Purchases  web page&quot;,&quot;id&quot;:60191}" EXPECTED_COMMIT_MESSAGE="{&quot;value&quot;:&quot;user story #48029: Changed SQL query&quot;}" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
