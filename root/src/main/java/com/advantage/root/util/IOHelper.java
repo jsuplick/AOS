@@ -32,6 +32,17 @@ public abstract class IOHelper {
         IOHelper.outputInput(in, out);
         return out.toByteArray();
     }
+    public static byte[] fileContentToMByteArray(final String filePath) throws IOException {
+
+        ArgumentValidationHelper.validateStringArgumentIsNotNullAndNotBlank(filePath,
+                "file path");
+        final InputStream in = new FileInputStream(filePath);
+        final ByteArrayOutputStream out = new ByteArrayOutputStream();
+        IOHelper.outputInput(in, out);
+        return out.toByteArray();
+    }
+
+
 
     /**
      * Get the content of the given file, as a byte array.
