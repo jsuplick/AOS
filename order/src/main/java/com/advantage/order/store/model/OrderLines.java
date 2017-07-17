@@ -50,6 +50,9 @@ public class OrderLines {
     /* Get all order lines of a specific product by product-id and product-color made by specific user-id   */
     public static final String QUERY_GET_ORDERS_LINES_BY_PRODUCT_PK = "OrderLines.getOrdersLinesByProductId";
 
+    /* Get all order lines of a specific product by product-id and product-color made by specific user-id   */
+    public static final String QUERY_PUT_ORDERS_LINES_BY_PRODUCT_PK = "OrderLines.getOrdersLinesByProductId";
+
     /* Get all order lines of a specific order order-number  */
     public static final String QUERY_GET_ORDER_LINES_BY_ORDER = "OrderLines.getOrderLinesByOrder";
 
