@@ -46,7 +46,7 @@ public class HistoryOrderLineDto {
     public HistoryOrderLineDto(long userId, long orderNumber, long orderTimestamp, Long productId, String productImageUrl, String productName, int productColor, double pricePerItem, int quantity) {
         this.userId = userId;
         this.orderNumber = orderNumber;
-        this.orderNumber2 = orderNumber;
+        /*this.orderNumber2 = orderNumber;*/
         this.orderTimestamp = orderTimestamp;
         this.orderDate = StringHelper.convertDateToString(new Date(orderTimestamp), "dd/MM/yyyy");
         this.productId = productId;

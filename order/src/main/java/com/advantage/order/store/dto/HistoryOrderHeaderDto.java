@@ -8,6 +8,7 @@ import java.util.List;
  */
 public class HistoryOrderHeaderDto {
 
+    /*private long orderNumber;    */
     private long orderNumber;
     private long orderTimestamp;
     private double shippingTrackingNumber;

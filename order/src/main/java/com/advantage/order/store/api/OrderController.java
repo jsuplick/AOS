@@ -85,7 +85,7 @@ public class OrderController {
             logger.warn("cefData is null");
         }
 
-        ShoppingCartResponseDto userCartResponseDto = shoppingCartService.getUserShoppingCart(Long.valueOf(userId));
+        /*ShoppingCartResponseDto userCartResponseDto = shoppingCartService.getUserShoppingCart(Long.valueOf(userId));*/
 
         if (userCartResponseDto == null) {
             return new ResponseEntity<>(userCartResponseDto, HttpStatus.NOT_FOUND);    //  404 = Resource not found
