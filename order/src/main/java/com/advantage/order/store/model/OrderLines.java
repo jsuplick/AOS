@@ -4,6 +4,7 @@ import javax.persistence.*;
 
 /**
  * @author Binyamin Regev on 06/01/2016.
+ *
  */
 @Entity
 @Table(name = "order_lines")
