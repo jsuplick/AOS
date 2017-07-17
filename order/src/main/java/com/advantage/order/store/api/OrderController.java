@@ -45,9 +45,9 @@ import java.util.List;
 @RequestMapping(value = Constants.URI_API + "/v1")
 public class OrderController {
 
-    @Autowired
+/*    @Autowired
     private ShoppingCartService shoppingCartService;
-
+*/
     @Autowired
     private OrderManagementService orderManagementService;
 
