@@ -12,6 +12,8 @@ public class OrderPurchaseRequest {
         private Long productId;
         private String productName;
         private int quantity;
+        private int color;
+        private int freshness;
 
         public CartProductForPurchase() { }
 
